@@ -3,7 +3,7 @@
 <head>
   <title>Simple Invoicing</title>
   <meta charset='utf-8'>
-  <meta name="description" content="AngularJS and Angular Code Example for creating Invoices and Invoicing Application">
+  <meta name="description" content="">
   <link rel="stylesheet" href="bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="style.css">
   <script type="text/javascript" src="angular.min.js"></script>
